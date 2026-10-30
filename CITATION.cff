@@ -3,7 +3,7 @@ message: "Please cite the authors and manuscript title when using this code or i
 type: software
 repository-code: "https://github.com/tomtaylor1992911-lang/markov-accuracy-windows"
 url: "https://github.com/tomtaylor1992911-lang/markov-accuracy-windows"
-version: "1.0.0"
+version: "1.0.1"
 title: "Markov accuracy windows in finite quantum reservoirs: reproducible code and data"
 authors:
   - family-names: Cui

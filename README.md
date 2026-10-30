@@ -1,7 +1,7 @@
 # Markov accuracy windows in finite quantum reservoirs
 
 Public repository: https://github.com/tomtaylor1992911-lang/markov-accuracy-windows  
-Reproducible snapshot: `v1.0.0` (30 October 2026).
+Reproducible snapshot: `v1.0.1` (30 October 2026).
 
 Reproducible Python code and source data for **Tolerance-dependent Markov accuracy windows in finite quantum reservoirs** by Xiaxia Cui, Renxin Yu, Qiang Tang, and Jau Tang.
 
