@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "Please cite the authors and manuscript title when using this code or its data."
+type: software
+repository-code: "https://github.com/tomtaylor1992911-lang/markov-accuracy-windows"
+url: "https://github.com/tomtaylor1992911-lang/markov-accuracy-windows"
+version: "1.0.0"
+title: "Markov accuracy windows in finite quantum reservoirs: reproducible code and data"
+authors:
+  - family-names: Cui
+    given-names: Xiaxia
+  - family-names: Yu
+    given-names: Renxin
+  - family-names: Tang
+    given-names: Qiang
+  - family-names: Tang
+    given-names: Jau
+date-released: 2026-10-30
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Tolerance-dependent Markov accuracy windows in finite quantum reservoirs"
+  authors:
+    - family-names: Cui
+      given-names: Xiaxia
+    - family-names: Yu
+      given-names: Renxin
+    - family-names: Tang
+      given-names: Qiang
+    - family-names: Tang
+      given-names: Jau
+  year: 2026
